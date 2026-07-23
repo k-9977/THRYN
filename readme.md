@@ -59,3 +59,7 @@ Some things I would like to add in the future:
 ## License
 
 This project was created for learning and portfolio purposes.
+
+## Live Demo
+
+https://k-9977.github.io/THRYN/
