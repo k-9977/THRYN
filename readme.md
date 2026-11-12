@@ -20,22 +20,6 @@ The idea behind THRYN was to create a website that feels calm, premium, and conn
 - Mobile navigation menu
 - Clean typography and layout
 
-## Project Structure
-THRYN
-│
-├── index.html
-│
-├── css
-│   └── style.css
-│
-├── js
-│   └── script.js
-│
-├── images
-│   └── hero.png
-│
-└── README.md
-
 
 ## What I Learned
 
